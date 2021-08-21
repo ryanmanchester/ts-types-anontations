@@ -1,1 +1,1 @@
-# ts-types-anontations
+# Repository of lectures and examples on learning TypeScript
