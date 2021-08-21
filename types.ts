@@ -2,7 +2,7 @@ const today = new Date();
 today.getDay();
 
 const person = {
-  age: 30;
+  age: 30
 };
 
 class Color {
